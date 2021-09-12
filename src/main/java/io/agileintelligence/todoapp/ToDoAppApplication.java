@@ -8,6 +8,7 @@ public class ToDoAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ToDoAppApplication.class, args);
+        private int var=10;
     }
 
 }
