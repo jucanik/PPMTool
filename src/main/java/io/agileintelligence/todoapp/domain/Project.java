@@ -94,4 +94,5 @@ public class Project {
     /*good code*/
     /*very good code*/
     /*very good code*/
+    private int var=10;
 }
