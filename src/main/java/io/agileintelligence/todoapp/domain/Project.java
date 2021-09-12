@@ -15,6 +15,7 @@ public class Project {
 
     private Date created_At;
     private Date updated_At;
+    private int p;
     public Project(){
     }
 
